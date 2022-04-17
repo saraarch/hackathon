@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&family=Maven+Pro&family=Pacifico&family=Poppins:wght@200&family=Prompt&family=Roboto+Slab&family=Roboto:wght@400;500&display=swap');
+body{
+    
+    background-size: cover;
+    
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/151/173/145/banne-biology-business-color-wallpaper-preview.jpg");
+  
+}
+#container{
+    margin-top:200px;
+   padding-left:700px;
+    font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Slab', serif;
+}
+.glyphicon-search{
+    font-size:20px;
+
+}
+.btn-default{
+    /* background:orange; */
+    width:100px;
+    padding:12.5px;
+}
+form-control{
+    padding:25px;
+    font-size:20px;
+}
